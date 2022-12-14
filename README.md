@@ -3,6 +3,7 @@ nothing fancy to see here! Demo for using a makefile template and making a basic
 
 
 Instructions:
+
     1) clone the repo
     
     2) change directory to speedtest
